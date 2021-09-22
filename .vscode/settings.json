@@ -1,0 +1,10 @@
+{
+    "editor.fontSize": 16,
+    "debug.javascript.autoAttachFilter": "smart",
+    "html-css-class-completion.enableEmmetSupport": true,
+    "standard.autoFixOnSave": true,
+    "prettier.embeddedLanguageFormatting": "off",
+    "editor.formatOnType": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.acceptSuggestionOnCommitCharacter": false
+}
